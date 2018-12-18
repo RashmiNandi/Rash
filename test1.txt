@@ -1,0 +1,10 @@
+ Volume in drive C is OSDisk
+ Volume Serial Number is 5270-0129
+
+ Directory of C:\Users\848243\Desktop\Rashmi
+
+12/18/2018  12:13 PM    <DIR>          .
+12/18/2018  12:13 PM    <DIR>          ..
+12/18/2018  12:13 PM                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  28,764,450,816 bytes free
